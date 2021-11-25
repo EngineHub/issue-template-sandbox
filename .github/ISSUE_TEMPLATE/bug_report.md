@@ -82,7 +82,7 @@ body:
 
 - type: input
   attributes:
-    label: Optional: WorldGuard-Report
+    label: Optional WorldGuard-Report
     description: Link to WorldGuard Region report for bugs with regions, received with `/wg report -p`
   validations:
     required: false
